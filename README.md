@@ -1,5 +1,5 @@
 # CCENT Notes
-> Open-Source (until I like to remove it) CCENT Notes.
+> Open-Source-ish (until I like to remove it) CCENT Notes.
 
 ## Training
 * ITProTV - CCENT 2018
